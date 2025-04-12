@@ -10,7 +10,8 @@ To see an example version of a built out app: https://github.com/nmenezes0/pylad
 ## Getting started
 
 First fork the repo:
-![image](https://github.com/user-attachments/assets/2f4a0336-c7c1-48e7-84ba-b76f4e6498bd)
+
+
 ![image](https://github.com/user-attachments/assets/a247d150-76cf-4f86-856f-38f202afd854)
 
 
