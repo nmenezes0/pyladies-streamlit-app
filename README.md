@@ -1,6 +1,9 @@
 # PyLadies Lithuania - Sample Streamlit app
 
-This is a skeleton Streamlit app for the PyLadies workshop at PyConLT 2025.
+This is a skeleton Streamlit app for the PyLadies workshop at PyConLT 2025. See below for how to get started running the app.
+
+
+
 
 ## Getting started
 
