@@ -17,8 +17,14 @@ Then you can:
 
 ### Running in GitHub Codespaces
 
+Go to: github.com/codespaces
+
+![image](https://github.com/user-attachments/assets/fd451695-56c0-4e40-aec6-d9c3e5376a2e)
 
 
+Then create a new codespace based on your forked version of the repo (the repo name will be something like `<your-username>/pyladies-streamlit-app`/.
+
+`
 ### Running locally
 * Clone the forked repository.
 * Install packages (ideally into a virtual environment): `pip install -r requirements.lock`.
