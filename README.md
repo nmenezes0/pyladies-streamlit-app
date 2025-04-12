@@ -5,14 +5,15 @@ This is a skeleton Streamlit app for the PyLadies workshop at PyConLT 2025.
 ## Getting started
 
 First fork the repo:
-![image](https://github.com/user-attachments/assets/5107e6c2-d41d-4b36-8239-e4aefd6683be)
-
 ![image](https://github.com/user-attachments/assets/2f4a0336-c7c1-48e7-84ba-b76f4e6498bd)
 
 
-Then you can:
-* Run in GitHub Codespaces (note there are limits to how much you can use: https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces)
-* Run locally
+
+
+Then you can either:
+
+* Run in GitHub Codespaces (note there are limits to how much you can use - see [GitHub docs](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces))
+* Run locally on your laptop
 
 
 ### Running in GitHub Codespaces
