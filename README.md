@@ -9,9 +9,6 @@ First fork the repo:
 
 
 
-
-
-
 Then you can either:
 
 * Run in GitHub Codespaces (note there are limits to how much you can use - see [GitHub docs](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces))
@@ -29,7 +26,7 @@ Then create a new codespace based on your forked version of the repo (the repo n
 
 Once your codespace has got started, run the app by typing `streamlit run app.py` in the terminal.
 
-`
+
 ### Running locally
 * Clone the forked repository.
 * Install packages (ideally into a virtual environment): `pip install -r requirements.lock`.
