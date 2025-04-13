@@ -2,6 +2,8 @@
 
 This is a skeleton Streamlit app for the PyLadies workshop at PyConLT 2025. See below for how to get started running the app.
 
+There is an initial dataset in the `data` folder.
+
 You will get instructions on how to complete the app in the workshop - you will primarily be updating the code in `app.py`.
 
 To see an example version of a built out app: https://github.com/nmenezes0/pyladies-full-app.
